@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer focused on building software and contributing to open source projects.
+I'm a new developer focused on building software and contributing to open source projects.
 
 ## 📊 GitHub Stats
 
