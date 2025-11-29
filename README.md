@@ -1,20 +1,25 @@
-### Hi there 👋
+# 👋 Hi, I'm @zxdong262
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zxdong262&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxdong262&langs_count=10&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+I'm a passionate developer focused on building software and contributing to open source projects.
 
-<!--
-**zxdong262/zxdong262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxdong262&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zxdong262&theme=tokyonight&hide_border=true)
+
+## 🔗 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/zxdong262)
+
+## 📈 Current Focus
+
+- 🔭 Working on open source projects
+- 🌱 Learning new technologies and best practices
+- 💬 Ask me about web development and software engineering
+
+---
+
+⭐️ From [zxdong262](https://github.com/zxdong262)
