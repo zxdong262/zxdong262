@@ -4,14 +4,9 @@
 
 I'm a passionate developer focused on building software and contributing to open source projects.
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zxdong262&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zxdong262&theme=tokyonight)
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zxdong262&theme=tokyonight&hide_border=true)](https://github.com/zxdong262)
 
 ## 🔗 Connect with Me
 
