@@ -2,13 +2,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer focused on building software and contributing to open source projects.
+I'm a new developer focused on building software and contributing to open source projects.
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxdong262&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zxdong262&theme=tokyonight&hide_border=true)
+![GitHub followers](https://img.shields.io/github/followers/zxdong262?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/zxdong262?style=social)
 
 ## 🔗 Connect with Me
 
