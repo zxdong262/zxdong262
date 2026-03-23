@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a new developer focused on building software and contributing to open source projects. contact me: zxdong@gmail.com
+I'm a developer focused on building software. contact me: zxdong@gmail.com
 
 ## 📊 GitHub Stats
 
